@@ -76,7 +76,7 @@ open index.html
 
 <!-- Add your screenshots here -->
 <p align="center">
-  <img src="screenshot1.png" alt="Game Preview" width="600"/>
+  <img src="https://github.com/user-attachments/assets/81870555-c44d-4dda-ad13-23c1ed304c09" alt="Game Preview" width="600"/>
 </p>
 
 ---
